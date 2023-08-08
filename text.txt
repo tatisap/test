@@ -1,2 +1,1 @@
-ffffffff
-new c
+ffffffff newc
